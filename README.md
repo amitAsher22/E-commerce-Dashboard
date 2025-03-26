@@ -5,7 +5,7 @@ A modern E-commerce Analytics Dashboard built with Next.js, Zustand, Recharts, a
 🛠️ Tech Stack
 
 Framework: Next.js 13+
-Charts: Recharts
-State Management: Zustand
-Styling: Tailwind CSS, ShadCN/UI
-API: FakeStore API (replaceable with a real backend)
+* Charts: Recharts
+* State Management: Zustand
+* Styling: Tailwind CSS, ShadCN/UI
+* API: FakeStore API (replaceable with a real backend)
